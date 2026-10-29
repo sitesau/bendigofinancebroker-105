@@ -1,0 +1,22 @@
+{
+  "wheel_id": 494,
+  "structure": "umbrella",
+  "slug": "bendigofinancebroker-105",
+  "project": "finance-broker-bendigo-glossary-fda43fc4746e504cb98db065a4adecb",
+  "parent_t1_ref": "bendigofinancebroker-152",
+  "node_role": "feeder",
+  "money_target": "bendigofinancebroker.com.au",
+  "primary_kw": "finance broker bendigo glossary",
+  "intended_url": "https://aumedia.neocities.org/finance-broker-bendigo-glossary-fda43fc4746e504cb98db065a4adecb/",
+  "tier": "T2",
+  "writeback_nonce": "70ae9d2b74b21519",
+  "links": [
+    {
+      "target_url": "http://finance-broker-bendigo-5779640723bb791115babb4645499c5a06be8502.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this finance broker bendigo resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
